@@ -1,4 +1,6 @@
-# MoveSmart-ML
+## Autores
+  HEITOR ANDERSON PRESTES DE OLIVEIRA FILHO RM 554823
+  AUGUSTO FERREIRA ROGEL RM 557709
 
 # MoveSmart – Análise Inteligente do Transporte Público
 
@@ -112,11 +114,3 @@ O modelo desenvolvido não realiza previsões de atrasos ou localização em tem
 2. Abra o notebook do projeto.
 3. Disponibilize o arquivo `dataset_sptrans_processado.csv` no ambiente do Colab.
 4. Execute as células em ordem para carregar os dados, realizar o processamento, treinar o modelo e visualizar os resultados.
-
-## Autores
-
-Projeto acadêmico desenvolvido como parte das atividades da FIAP.
-
-**Projeto:** MoveSmart  
-**Área:** Ciência de Dados e Machine Learning  
-**Instituição:** FIAP
